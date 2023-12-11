@@ -1,8 +1,0 @@
-https://env.econ.sapporo-u.ac.jp/science/ -O env.econ.sapporo-u.ac.jp/science +*.env.econ.sapporo-u.ac.jp/* -v
-File generated automatically on Mon, 11 Dec 2023 10:47:39, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
