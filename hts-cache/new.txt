@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:47:41	196/196	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2011%20Dec%202023%2001:47:40%20GMT	https://env.econ.sapporo-u.ac.jp/robots.txt		(from )
+10:47:42	252946/252946	---MCZ	200	added ('OK')	text/html	date:Mon,%2011%20Dec%202023%2001:47:41%20GMT	https://env.econ.sapporo-u.ac.jp/science/	env.econ.sapporo-u.ac.jp/science/env.econ.sapporo-u.ac.jp/science/index.html	(from )
+10:47:42	42/42	---M--	405	error ('Method%20Not%20Allowed')	text/plain	date:Mon,%2011%20Dec%202023%2001:47:42%20GMT	https://env.econ.sapporo-u.ac.jp/science/xmlrpc.php	env.econ.sapporo-u.ac.jp/science/env.econ.sapporo-u.ac.jp/science/xmlrpc.php	(from https://env.econ.sapporo-u.ac.jp/science/)
